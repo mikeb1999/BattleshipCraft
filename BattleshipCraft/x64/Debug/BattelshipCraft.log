@@ -1,1 +1,1504 @@
-﻿C:\Users\micha\source\repos\BattleshipCraft\main\BattelshipCraft\BattelshipCraft.vcxproj : error MSB4025: The project file could not be loaded. Could not find file 'C:\Users\micha\source\repos\BattleshipCraft\main\BattelshipCraft\BattelshipCraft.vcxproj'.
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BattelshipCraft.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  battleship.cpp
+  block.cpp
+  camera.cpp
+  combat.cpp
+  config.cpp
+  coordinate_system.cpp
+  game.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,25): error C2146: syntax error: missing ';' before identifier 'glAccum'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,25): error C2146: syntax error: missing ';' before identifier 'glAlphaFunc'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1159,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1159,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1159,11): error C2146: syntax error: missing ';' before identifier 'GLboolean'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,25): error C2146: syntax error: missing ';' before identifier 'glArrayElement'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,25): error C2146: syntax error: missing ';' before identifier 'glBegin'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,25): error C2146: syntax error: missing ';' before identifier 'glBindTexture'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,25): error C2146: syntax error: missing ';' before identifier 'glBitmap'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,25): error C2146: syntax error: missing ';' before identifier 'glBlendFunc'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,25): error C2146: syntax error: missing ';' before identifier 'glCallList'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,25): error C2146: syntax error: missing ';' before identifier 'glCallLists'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,25): error C2146: syntax error: missing ';' before identifier 'glClear'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,25): error C2146: syntax error: missing ';' before identifier 'glClearAccum'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,25): error C2146: syntax error: missing ';' before identifier 'glClearColor'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,25): error C2146: syntax error: missing ';' before identifier 'glClearDepth'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,25): error C2146: syntax error: missing ';' before identifier 'glClearIndex'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'camera.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,16): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'camera.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,25): error C2146: syntax error: missing ';' before identifier 'glAccum'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,25): error C2146: syntax error: missing ';' before identifier 'glAlphaFunc'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1159,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1159,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1159,11): error C2146: syntax error: missing ';' before identifier 'GLboolean'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,25): error C2146: syntax error: missing ';' before identifier 'glArrayElement'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,25): error C2146: syntax error: missing ';' before identifier 'glBegin'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,25): error C2146: syntax error: missing ';' before identifier 'glBindTexture'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,25): error C2146: syntax error: missing ';' before identifier 'glBitmap'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,25): error C2146: syntax error: missing ';' before identifier 'glBlendFunc'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,25): error C2146: syntax error: missing ';' before identifier 'glCallList'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,25): error C2146: syntax error: missing ';' before identifier 'glCallLists'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,25): error C2146: syntax error: missing ';' before identifier 'glClear'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,25): error C2146: syntax error: missing ';' before identifier 'glClearAccum'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,25): error C2146: syntax error: missing ';' before identifier 'glClearColor'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,25): error C2146: syntax error: missing ';' before identifier 'glClearDepth'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,25): error C2146: syntax error: missing ';' before identifier 'glClearIndex'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'coordinate_system.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,16): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'coordinate_system.cpp')
+  
+C:\lib\glew-2.1.0\include\GL\glew.h(85,1): error C1189: #error:  gl.h included before glew.h
+  (compiling source file 'game.cpp')
+  
+  game_object.cpp
+  Grid3D.cpp
+  Ground.cpp
+  input.cpp
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,25): error C2146: syntax error: missing ';' before identifier 'glAccum'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,25): error C2146: syntax error: missing ';' before identifier 'glAlphaFunc'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1159,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1159,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1159,11): error C2146: syntax error: missing ';' before identifier 'GLboolean'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,25): error C2146: syntax error: missing ';' before identifier 'glArrayElement'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,25): error C2146: syntax error: missing ';' before identifier 'glBegin'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,25): error C2146: syntax error: missing ';' before identifier 'glBindTexture'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,25): error C2146: syntax error: missing ';' before identifier 'glBitmap'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,25): error C2146: syntax error: missing ';' before identifier 'glBlendFunc'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,25): error C2146: syntax error: missing ';' before identifier 'glCallList'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,25): error C2146: syntax error: missing ';' before identifier 'glCallLists'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,25): error C2146: syntax error: missing ';' before identifier 'glClear'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,25): error C2146: syntax error: missing ';' before identifier 'glClearAccum'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,25): error C2146: syntax error: missing ';' before identifier 'glClearColor'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,25): error C2146: syntax error: missing ';' before identifier 'glClearDepth'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,25): error C2146: syntax error: missing ';' before identifier 'glClearIndex'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,16): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'main.cpp')
+  
+  MapGrid.cpp
+  MiniMap.cpp
+  models.cpp
+  physics.cpp
+  player.cpp
+  renderer.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,25): error C2146: syntax error: missing ';' before identifier 'glAccum'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,25): error C2146: syntax error: missing ';' before identifier 'glAlphaFunc'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1158,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1159,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1159,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1159,11): error C2146: syntax error: missing ';' before identifier 'GLboolean'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,25): error C2146: syntax error: missing ';' before identifier 'glArrayElement'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1160,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,25): error C2146: syntax error: missing ';' before identifier 'glBegin'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1161,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,25): error C2146: syntax error: missing ';' before identifier 'glBindTexture'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1162,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,25): error C2146: syntax error: missing ';' before identifier 'glBitmap'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1163,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,25): error C2146: syntax error: missing ';' before identifier 'glBlendFunc'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1164,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,25): error C2146: syntax error: missing ';' before identifier 'glCallList'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1165,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,25): error C2146: syntax error: missing ';' before identifier 'glCallLists'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1166,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,25): error C2146: syntax error: missing ';' before identifier 'glClear'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1167,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,25): error C2146: syntax error: missing ';' before identifier 'glClearAccum'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1168,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,25): error C2146: syntax error: missing ';' before identifier 'glClearColor'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1169,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,25): error C2146: syntax error: missing ';' before identifier 'glClearDepth'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1170,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,16): error C2086: 'int APIENTRY': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,16):
+      see declaration of 'APIENTRY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,25): error C2146: syntax error: missing ';' before identifier 'glClearIndex'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1171,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,11): error C2144: syntax error: 'void' should be preceded by ';'
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,1): error C2086: 'int WINGDIAPI': redefinition
+  (compiling source file 'renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1157,1):
+      see declaration of 'WINGDIAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,16): error C2182: 'APIENTRY': this use of 'void' is not valid
+  (compiling source file 'renderer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1172,16): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'renderer.cpp')
+  
+  scene.cpp
+  shaders.cpp
+  Generating Code...
+  Compiling...
+  ship.cpp
+  Skybox.cpp
+  textures.cpp
+  ui.cpp
+  utils.cpp
+  Generating Code...
